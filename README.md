@@ -348,12 +348,6 @@ Metrics used for industrial deployment:
 
 ---
 
-# 📜 License
-
-MIT License
-
----
-
 # 👨‍💻 Author
 
 Developed as an AI-powered Industrial Safety Compliance Detection System using YOLOv8 and Computer Vision.
